@@ -49,7 +49,7 @@ getBmiClass(bmi){
           </div>
         </form>
         <br /><br />
-        <output />
+        <Outputs data={this.state}/>
       </div>
     );
   }
